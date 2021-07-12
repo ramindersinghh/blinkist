@@ -3,6 +3,8 @@ package com.zemoso.training.dto;
 import com.zemoso.training.entity.Author;
 import com.zemoso.training.entity.Category;
 
+import java.sql.Date;
+
 public class BookDto {
     private int book_id;
     private String title;
@@ -16,4 +18,6 @@ public class BookDto {
 
     private Author author_id;
     private Category category;
+    private Date creationDate;
+
 }
