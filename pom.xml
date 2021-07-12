@@ -15,8 +15,8 @@
 	<description>Blinkist App for Training</description>
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>sonar_project_key</sonar.projectKey>
-		<sonar.organization>zemoso-int</sonar.organization>
+		<sonar.projectKey>ramindersinghh_zemoso-training-blinkist</sonar.projectKey>
+		<sonar.organization>ramindersinghh</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
